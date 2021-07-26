@@ -12,7 +12,7 @@ exports.connect=() => {
         }
         else
         {
-            console.log("connected to databases");
+            console.log("connected to database");
         }
     })
 }
