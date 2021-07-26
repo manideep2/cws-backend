@@ -12,7 +12,11 @@ exports.connect=() => {
         }
         else
         {
-            console.log("connects to databases");
+ manikanta
+            console.log("connected to database");
+
+            console.log("connected to database");
+ main
         }
     })
 }
